@@ -20,7 +20,9 @@
                             <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="mhC-sM-PVn">
                                 <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                                 <items>
-                                    <navigationItem id="0lL-yS-aE0"/>
+                                    <navigationItem id="0lL-yS-aE0">
+                                        <barButtonItem key="rightBarButtonItem" systemItem="add" id="jvv-l8-VVe"/>
+                                    </navigationItem>
                                 </items>
                             </navigationBar>
                         </subviews>
